@@ -1,3 +1,11 @@
+This fork fixed the error when hex have newline \r\n
+
+#Sublime Install#
+super+shipt+p -> add repo -> this site
+super+shipt+p install hextoASCII -> double check it's from this site
+
+
+----------------------------------------------------
 # Sublime Text 2 ASCII<->Hex converter Plugin #
 
 Sublime Text 2 plugin to convert ASCII->Hex and Hex->ASCII
