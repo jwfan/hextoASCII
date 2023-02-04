@@ -1,7 +1,7 @@
 This fork fixed the error when hex have newline \r\n
 
-#Sublime Install#
-super+shipt+p -> add repo -> this site
+# Sublime Install #
+super+shipt+p -> add repo -> this site   
 super+shipt+p install hextoASCII -> double check it's from this site
 
 
